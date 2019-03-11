@@ -1,0 +1,2 @@
+# iOSCollectionViewSelfSizing
+CollectionViewのSelf-Sizingのサンプル
